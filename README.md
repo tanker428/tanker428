@@ -29,3 +29,7 @@ Here are some ideas to get you started:
 </p>
 
 ![GitHub Profile Summary Cards](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tanker428&theme=2077)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tanker428&theme=2077)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tanker428&theme=2077&utcOffset=8)
