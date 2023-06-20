@@ -30,6 +30,12 @@ Here are some ideas to get you started:
 
 ![GitHub Profile Summary Cards](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tanker428&theme=2077)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tanker428&theme=2077)
+<p align="left">
+ <a href="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tanker428&theme=2077">
+ </a>
+</p>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tanker428&theme=2077&utcOffset=8)
+<p align="right">
+ <a href="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tanker428&theme=2077&utcOffset=8">
+ </a>
+</p>
