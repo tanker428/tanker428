@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://komarev.com/ghpvc/?username = tanker428)
+<a href="https://github.com/yutkat/yutkat/">
+    <img src="https://komarev.com/ghpvc/?username=tanker428" alt="tanker428" />
+</a>
