@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # SVG-Animation
 ## example
-<img alt="tanker428" src="header.svg" width="98.2%" height="100%">
+<img alt="tanker428" src="header.svg" width="100%" height="100%">
 
 <p align="left">
     <a href="https://github.com/yutkat/yutkat/">
