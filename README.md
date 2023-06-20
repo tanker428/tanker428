@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://github.com/yutkat/yutkat/">
-    <img src="https://komarev.com/ghpvc/?username=tanker428" alt="tanker428" />
-</a>
+<p align="left">
+    <a href="https://github.com/yutkat/yutkat/">
+        <img src="https://komarev.com/ghpvc/?username=tanker428" alt="tanker428" />
+    </a>
+</p>
+<p>使ったことのある言語（使えるとは言ってない）</p>
+
