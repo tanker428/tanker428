@@ -43,6 +43,8 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanker428&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanker428&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tanker428&theme=2077) 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tanker428&theme=2077&utcOffset=8) -->
