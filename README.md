@@ -45,6 +45,8 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanker428&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tanker428&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tanker428&theme=2077) 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tanker428&theme=2077&utcOffset=8) -->
