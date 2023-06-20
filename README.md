@@ -27,3 +27,5 @@ Here are some ideas to get you started:
  <a href="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={tanker428}&theme={github_dark}">
  </a>
 </p>
+
+![GitHub Profile Summary Cards](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tanker428&theme=2077)
