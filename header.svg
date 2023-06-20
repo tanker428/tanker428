@@ -16,7 +16,7 @@
                 }
 
                 h1 {
-                    font: bold 300% Consolas, Monaco,　 monospace;
+                    font: bold 300% Consolas, Monaco, monospace;
                     border-right: .2em solid white;
                     width: 17.5em; 
                     width: 19.2ch;
@@ -30,7 +30,7 @@
                 }
 			</style>
             <div class="container">
-                <h1>tanker428 形から入るタイプ</h1>
+                <h1>Welcome tanker428 page</h1>
             </div>
 		</div>
 	</foreignObject>
