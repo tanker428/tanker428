@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@tanker428&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=tanker428&no-frame=true&theme=flat&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=tanker428&no-frame=true&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
